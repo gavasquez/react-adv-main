@@ -16,7 +16,14 @@
     border-radius: 20px;
 }
 
-.custombuttons button, .custombuttons div {
+.custombuttons button,
+.custombuttons div {
     border-color: white;
     color: white;
+}
+
+.shoppingcart {
+    position: fixed;
+    right: 10px;
+    top: 0px;
 }
